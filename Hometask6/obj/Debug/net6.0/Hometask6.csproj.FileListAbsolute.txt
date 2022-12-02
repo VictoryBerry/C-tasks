@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\Hometask6.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\Hometask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\Hometask6.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\Hometask6.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\Hometask6.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\Hometask6\bin\Debug\net6.0\Hometask6.exe
+C:\Users\HP\Downloads\C#\Hometask6\bin\Debug\net6.0\Hometask6.deps.json
+C:\Users\HP\Downloads\C#\Hometask6\bin\Debug\net6.0\Hometask6.runtimeconfig.json
+C:\Users\HP\Downloads\C#\Hometask6\bin\Debug\net6.0\Hometask6.dll
+C:\Users\HP\Downloads\C#\Hometask6\bin\Debug\net6.0\Hometask6.pdb
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\Hometask6.dll
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\refint\Hometask6.dll
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\Hometask6.pdb
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\Hometask6.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\Hometask6\obj\Debug\net6.0\ref\Hometask6.dll
