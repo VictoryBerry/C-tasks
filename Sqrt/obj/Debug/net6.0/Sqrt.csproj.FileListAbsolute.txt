@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\Sqrt\bin\Debug\net6.0\Sqrt.exe
+C:\Users\HP\Downloads\C#\Sqrt\bin\Debug\net6.0\Sqrt.deps.json
+C:\Users\HP\Downloads\C#\Sqrt\bin\Debug\net6.0\Sqrt.runtimeconfig.json
+C:\Users\HP\Downloads\C#\Sqrt\bin\Debug\net6.0\Sqrt.dll
+C:\Users\HP\Downloads\C#\Sqrt\bin\Debug\net6.0\Sqrt.pdb
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\Sqrt.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\Sqrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\Sqrt.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\Sqrt.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\Sqrt.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\Sqrt.dll
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\refint\Sqrt.dll
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\Sqrt.pdb
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\Sqrt.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\Sqrt\obj\Debug\net6.0\ref\Sqrt.dll
