@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task20Koordinati\bin\Debug\net6.0\task20Koordinati.exe
+C:\Users\HP\Downloads\C#\task20Koordinati\bin\Debug\net6.0\task20Koordinati.deps.json
+C:\Users\HP\Downloads\C#\task20Koordinati\bin\Debug\net6.0\task20Koordinati.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task20Koordinati\bin\Debug\net6.0\task20Koordinati.dll
+C:\Users\HP\Downloads\C#\task20Koordinati\bin\Debug\net6.0\task20Koordinati.pdb
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\task20Koordinati.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\task20Koordinati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\task20Koordinati.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\task20Koordinati.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\task20Koordinati.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\task20Koordinati.dll
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\refint\task20Koordinati.dll
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\task20Koordinati.pdb
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\task20Koordinati.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task20Koordinati\obj\Debug\net6.0\ref\task20Koordinati.dll
