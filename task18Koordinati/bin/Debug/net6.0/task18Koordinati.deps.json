@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task18Koordinati/1.0.0": {
+        "runtime": {
+          "task18Koordinati.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task18Koordinati/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
