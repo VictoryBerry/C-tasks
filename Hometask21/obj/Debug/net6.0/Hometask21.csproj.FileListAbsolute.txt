@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\Hometask21.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\Hometask21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\Hometask21.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\Hometask21.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\Hometask21.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\Hometask21\bin\Debug\net6.0\Hometask21.exe
+C:\Users\HP\Downloads\C#\Hometask21\bin\Debug\net6.0\Hometask21.deps.json
+C:\Users\HP\Downloads\C#\Hometask21\bin\Debug\net6.0\Hometask21.runtimeconfig.json
+C:\Users\HP\Downloads\C#\Hometask21\bin\Debug\net6.0\Hometask21.dll
+C:\Users\HP\Downloads\C#\Hometask21\bin\Debug\net6.0\Hometask21.pdb
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\Hometask21.dll
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\refint\Hometask21.dll
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\Hometask21.pdb
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\Hometask21.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\Hometask21\obj\Debug\net6.0\ref\Hometask21.dll
