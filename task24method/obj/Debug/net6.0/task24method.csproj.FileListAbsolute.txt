@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\task24method.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\task24method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\task24method.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\task24method.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\task24method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task24method\bin\Debug\net6.0\task24method.exe
+C:\Users\HP\Downloads\C#\task24method\bin\Debug\net6.0\task24method.deps.json
+C:\Users\HP\Downloads\C#\task24method\bin\Debug\net6.0\task24method.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task24method\bin\Debug\net6.0\task24method.dll
+C:\Users\HP\Downloads\C#\task24method\bin\Debug\net6.0\task24method.pdb
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\task24method.dll
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\refint\task24method.dll
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\task24method.pdb
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\task24method.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task24method\obj\Debug\net6.0\ref\task24method.dll
