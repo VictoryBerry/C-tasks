@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\task28Multiply.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\task28Multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\task28Multiply.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\task28Multiply.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\task28Multiply.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task28Multiply\bin\Debug\net6.0\task28Multiply.exe
+C:\Users\HP\Downloads\C#\task28Multiply\bin\Debug\net6.0\task28Multiply.deps.json
+C:\Users\HP\Downloads\C#\task28Multiply\bin\Debug\net6.0\task28Multiply.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task28Multiply\bin\Debug\net6.0\task28Multiply.dll
+C:\Users\HP\Downloads\C#\task28Multiply\bin\Debug\net6.0\task28Multiply.pdb
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\task28Multiply.dll
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\refint\task28Multiply.dll
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\task28Multiply.pdb
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\task28Multiply.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task28Multiply\obj\Debug\net6.0\ref\task28Multiply.dll
