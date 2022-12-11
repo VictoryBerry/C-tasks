@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\TextReplace.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\TextReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\TextReplace.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\TextReplace.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\TextReplace.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\TextReplace\bin\Debug\net6.0\TextReplace.exe
+C:\Users\HP\Downloads\C#\TextReplace\bin\Debug\net6.0\TextReplace.deps.json
+C:\Users\HP\Downloads\C#\TextReplace\bin\Debug\net6.0\TextReplace.runtimeconfig.json
+C:\Users\HP\Downloads\C#\TextReplace\bin\Debug\net6.0\TextReplace.dll
+C:\Users\HP\Downloads\C#\TextReplace\bin\Debug\net6.0\TextReplace.pdb
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\TextReplace.dll
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\refint\TextReplace.dll
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\TextReplace.pdb
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\TextReplace.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\TextReplace\obj\Debug\net6.0\ref\TextReplace.dll
