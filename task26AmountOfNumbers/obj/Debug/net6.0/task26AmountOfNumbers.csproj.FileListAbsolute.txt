@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\task26AmountOfNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\task26AmountOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\task26AmountOfNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\task26AmountOfNumbers.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\task26AmountOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\bin\Debug\net6.0\task26AmountOfNumbers.exe
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\bin\Debug\net6.0\task26AmountOfNumbers.deps.json
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\bin\Debug\net6.0\task26AmountOfNumbers.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\bin\Debug\net6.0\task26AmountOfNumbers.dll
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\bin\Debug\net6.0\task26AmountOfNumbers.pdb
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\task26AmountOfNumbers.dll
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\refint\task26AmountOfNumbers.dll
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\task26AmountOfNumbers.pdb
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\task26AmountOfNumbers.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task26AmountOfNumbers\obj\Debug\net6.0\ref\task26AmountOfNumbers.dll
