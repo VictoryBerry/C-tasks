@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\TablicaUmnozh\bin\Debug\net6.0\TablicaUmnozh.exe
+C:\Users\HP\Downloads\C#\TablicaUmnozh\bin\Debug\net6.0\TablicaUmnozh.deps.json
+C:\Users\HP\Downloads\C#\TablicaUmnozh\bin\Debug\net6.0\TablicaUmnozh.runtimeconfig.json
+C:\Users\HP\Downloads\C#\TablicaUmnozh\bin\Debug\net6.0\TablicaUmnozh.dll
+C:\Users\HP\Downloads\C#\TablicaUmnozh\bin\Debug\net6.0\TablicaUmnozh.pdb
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\TablicaUmnozh.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\TablicaUmnozh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\TablicaUmnozh.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\TablicaUmnozh.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\TablicaUmnozh.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\TablicaUmnozh.dll
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\refint\TablicaUmnozh.dll
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\TablicaUmnozh.pdb
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\TablicaUmnozh.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\TablicaUmnozh\obj\Debug\net6.0\ref\TablicaUmnozh.dll
