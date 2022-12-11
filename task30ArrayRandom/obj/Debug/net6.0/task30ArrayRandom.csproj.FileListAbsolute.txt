@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\task30ArrayRandom.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\task30ArrayRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\task30ArrayRandom.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\task30ArrayRandom.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\task30ArrayRandom.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task30ArrayRandom\bin\Debug\net6.0\task30ArrayRandom.exe
+C:\Users\HP\Downloads\C#\task30ArrayRandom\bin\Debug\net6.0\task30ArrayRandom.deps.json
+C:\Users\HP\Downloads\C#\task30ArrayRandom\bin\Debug\net6.0\task30ArrayRandom.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task30ArrayRandom\bin\Debug\net6.0\task30ArrayRandom.dll
+C:\Users\HP\Downloads\C#\task30ArrayRandom\bin\Debug\net6.0\task30ArrayRandom.pdb
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\task30ArrayRandom.dll
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\refint\task30ArrayRandom.dll
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\task30ArrayRandom.pdb
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\task30ArrayRandom.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task30ArrayRandom\obj\Debug\net6.0\ref\task30ArrayRandom.dll
