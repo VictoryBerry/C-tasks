@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\ArraySort\bin\Debug\net6.0\ArraySort.exe
+C:\Users\HP\Downloads\C#\ArraySort\bin\Debug\net6.0\ArraySort.deps.json
+C:\Users\HP\Downloads\C#\ArraySort\bin\Debug\net6.0\ArraySort.runtimeconfig.json
+C:\Users\HP\Downloads\C#\ArraySort\bin\Debug\net6.0\ArraySort.dll
+C:\Users\HP\Downloads\C#\ArraySort\bin\Debug\net6.0\ArraySort.pdb
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ArraySort.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ArraySort.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ArraySort.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ArraySort.dll
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\refint\ArraySort.dll
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ArraySort.pdb
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ArraySort.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\ArraySort\obj\Debug\net6.0\ref\ArraySort.dll
