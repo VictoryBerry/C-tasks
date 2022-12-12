@@ -11,13 +11,13 @@ void FillArray(int[] collection)
     }
 }
 
-void PrintArray(int[] collection)
+void PrintArray(int[] col)
 {
-    int count = collection.Length;
+    int count = col.Length;
     int position = 0;
     while (position < count)
     {
-        Console.Write(collection[position]);
+        Console.Write($"{col[position]}, ");
         position++;
     }
 }
