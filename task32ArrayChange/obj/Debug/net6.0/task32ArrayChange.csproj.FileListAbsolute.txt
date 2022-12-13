@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\task32ArrayChange.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\task32ArrayChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\task32ArrayChange.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\task32ArrayChange.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\task32ArrayChange.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task32ArrayChange\bin\Debug\net6.0\task32ArrayChange.exe
+C:\Users\HP\Downloads\C#\task32ArrayChange\bin\Debug\net6.0\task32ArrayChange.deps.json
+C:\Users\HP\Downloads\C#\task32ArrayChange\bin\Debug\net6.0\task32ArrayChange.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task32ArrayChange\bin\Debug\net6.0\task32ArrayChange.dll
+C:\Users\HP\Downloads\C#\task32ArrayChange\bin\Debug\net6.0\task32ArrayChange.pdb
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\task32ArrayChange.dll
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\refint\task32ArrayChange.dll
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\task32ArrayChange.pdb
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\task32ArrayChange.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task32ArrayChange\obj\Debug\net6.0\ref\task32ArrayChange.dll
