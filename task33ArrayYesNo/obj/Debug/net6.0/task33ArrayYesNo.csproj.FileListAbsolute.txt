@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\bin\Debug\net6.0\task33ArrayYesNo.exe
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\bin\Debug\net6.0\task33ArrayYesNo.deps.json
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\bin\Debug\net6.0\task33ArrayYesNo.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\bin\Debug\net6.0\task33ArrayYesNo.dll
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\bin\Debug\net6.0\task33ArrayYesNo.pdb
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\task33ArrayYesNo.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\task33ArrayYesNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\task33ArrayYesNo.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\task33ArrayYesNo.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\task33ArrayYesNo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\task33ArrayYesNo.dll
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\refint\task33ArrayYesNo.dll
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\task33ArrayYesNo.pdb
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\task33ArrayYesNo.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task33ArrayYesNo\obj\Debug\net6.0\ref\task33ArrayYesNo.dll
