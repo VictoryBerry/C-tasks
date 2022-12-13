@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task37Composition\bin\Debug\net6.0\task37Composition.exe
+C:\Users\HP\Downloads\C#\task37Composition\bin\Debug\net6.0\task37Composition.deps.json
+C:\Users\HP\Downloads\C#\task37Composition\bin\Debug\net6.0\task37Composition.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task37Composition\bin\Debug\net6.0\task37Composition.dll
+C:\Users\HP\Downloads\C#\task37Composition\bin\Debug\net6.0\task37Composition.pdb
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\task37Composition.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\task37Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\task37Composition.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\task37Composition.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\task37Composition.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\task37Composition.dll
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\refint\task37Composition.dll
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\task37Composition.pdb
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\task37Composition.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task37Composition\obj\Debug\net6.0\ref\task37Composition.dll
