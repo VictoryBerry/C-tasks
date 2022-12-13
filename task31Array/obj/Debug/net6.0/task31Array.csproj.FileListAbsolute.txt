@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task31Array\bin\Debug\net6.0\task31Array.exe
+C:\Users\HP\Downloads\C#\task31Array\bin\Debug\net6.0\task31Array.deps.json
+C:\Users\HP\Downloads\C#\task31Array\bin\Debug\net6.0\task31Array.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task31Array\bin\Debug\net6.0\task31Array.dll
+C:\Users\HP\Downloads\C#\task31Array\bin\Debug\net6.0\task31Array.pdb
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\task31Array.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\task31Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\task31Array.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\task31Array.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\task31Array.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\task31Array.dll
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\refint\task31Array.dll
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\task31Array.pdb
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\task31Array.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task31Array\obj\Debug\net6.0\ref\task31Array.dll
