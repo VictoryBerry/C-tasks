@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task35CountElements\bin\Debug\net6.0\task35CountElements.exe
+C:\Users\HP\Downloads\C#\task35CountElements\bin\Debug\net6.0\task35CountElements.deps.json
+C:\Users\HP\Downloads\C#\task35CountElements\bin\Debug\net6.0\task35CountElements.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task35CountElements\bin\Debug\net6.0\task35CountElements.dll
+C:\Users\HP\Downloads\C#\task35CountElements\bin\Debug\net6.0\task35CountElements.pdb
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\task35CountElements.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\task35CountElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\task35CountElements.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\task35CountElements.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\task35CountElements.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\task35CountElements.dll
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\refint\task35CountElements.dll
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\task35CountElements.pdb
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\task35CountElements.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task35CountElements\obj\Debug\net6.0\ref\task35CountElements.dll
