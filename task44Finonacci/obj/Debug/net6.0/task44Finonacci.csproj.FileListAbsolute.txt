@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\task44Finonacci.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\task44Finonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\task44Finonacci.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\task44Finonacci.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\task44Finonacci.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task44Finonacci\bin\Debug\net6.0\task44Finonacci.exe
+C:\Users\HP\Downloads\C#\task44Finonacci\bin\Debug\net6.0\task44Finonacci.deps.json
+C:\Users\HP\Downloads\C#\task44Finonacci\bin\Debug\net6.0\task44Finonacci.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task44Finonacci\bin\Debug\net6.0\task44Finonacci.dll
+C:\Users\HP\Downloads\C#\task44Finonacci\bin\Debug\net6.0\task44Finonacci.pdb
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\task44Finonacci.dll
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\refint\task44Finonacci.dll
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\task44Finonacci.pdb
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\task44Finonacci.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task44Finonacci\obj\Debug\net6.0\ref\task44Finonacci.dll
