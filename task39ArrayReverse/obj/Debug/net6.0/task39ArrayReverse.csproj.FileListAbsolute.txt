@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\task39ArrayReverse.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\task39ArrayReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\task39ArrayReverse.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\task39ArrayReverse.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\task39ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task39ArrayReverse\bin\Debug\net6.0\task39ArrayReverse.exe
+C:\Users\HP\Downloads\C#\task39ArrayReverse\bin\Debug\net6.0\task39ArrayReverse.deps.json
+C:\Users\HP\Downloads\C#\task39ArrayReverse\bin\Debug\net6.0\task39ArrayReverse.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task39ArrayReverse\bin\Debug\net6.0\task39ArrayReverse.dll
+C:\Users\HP\Downloads\C#\task39ArrayReverse\bin\Debug\net6.0\task39ArrayReverse.pdb
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\task39ArrayReverse.dll
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\refint\task39ArrayReverse.dll
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\task39ArrayReverse.pdb
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\task39ArrayReverse.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task39ArrayReverse\obj\Debug\net6.0\ref\task39ArrayReverse.dll
