@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task40Triangle\bin\Debug\net6.0\task40Triangle.exe
+C:\Users\HP\Downloads\C#\task40Triangle\bin\Debug\net6.0\task40Triangle.deps.json
+C:\Users\HP\Downloads\C#\task40Triangle\bin\Debug\net6.0\task40Triangle.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task40Triangle\bin\Debug\net6.0\task40Triangle.dll
+C:\Users\HP\Downloads\C#\task40Triangle\bin\Debug\net6.0\task40Triangle.pdb
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\task40Triangle.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\task40Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\task40Triangle.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\task40Triangle.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\task40Triangle.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\task40Triangle.dll
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\refint\task40Triangle.dll
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\task40Triangle.pdb
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\task40Triangle.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task40Triangle\obj\Debug\net6.0\ref\task40Triangle.dll
