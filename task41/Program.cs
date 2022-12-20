@@ -23,22 +23,39 @@ Console.Write("Введите число i: ");
 int i = int.Parse(Console.ReadLine());
 
 
-string numDouble = " ";
+// string numDouble = " ";
 
 
-while (i > 0)
+// while (i > 0)
 
+// {
+//     int res = i % 2;
+//     numDouble = res + numDouble;
+//     i = i / 2;
+
+
+// }
+// Console.Write(numDouble);
+
+void ChangeToDouble(int i)
 {
-    int res = i % 2;
-    numDouble = res + numDouble;
-    i = i / 2;
+    string numDouble = " ";
+    while (i > 0)
 
+    {
+        int res = i % 2;
+        numDouble = res + numDouble;
+        i = i / 2;
+
+
+    }
+    Console.Write(numDouble);
 
 }
-Console.Write(numDouble);
 
 
 
-//Console.WriteLine(string.Join(ChangeToDouble));
-// ChangeToDouble(a);
+
+
+ChangeToDouble(i);
 
