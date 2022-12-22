@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\Hometask47.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\Hometask47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\Hometask47.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\Hometask47.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\Hometask47.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\Hometask47\bin\Debug\net6.0\Hometask47.exe
+C:\Users\HP\Downloads\C#\Hometask47\bin\Debug\net6.0\Hometask47.deps.json
+C:\Users\HP\Downloads\C#\Hometask47\bin\Debug\net6.0\Hometask47.runtimeconfig.json
+C:\Users\HP\Downloads\C#\Hometask47\bin\Debug\net6.0\Hometask47.dll
+C:\Users\HP\Downloads\C#\Hometask47\bin\Debug\net6.0\Hometask47.pdb
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\Hometask47.dll
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\refint\Hometask47.dll
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\Hometask47.pdb
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\Hometask47.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\Hometask47\obj\Debug\net6.0\ref\Hometask47.dll
