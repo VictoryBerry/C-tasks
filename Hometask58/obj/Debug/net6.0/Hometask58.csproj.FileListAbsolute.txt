@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\Hometask58.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\Hometask58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\Hometask58.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\Hometask58.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\Hometask58.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\Hometask58\bin\Debug\net6.0\Hometask58.exe
+C:\Users\HP\Downloads\C#\Hometask58\bin\Debug\net6.0\Hometask58.deps.json
+C:\Users\HP\Downloads\C#\Hometask58\bin\Debug\net6.0\Hometask58.runtimeconfig.json
+C:\Users\HP\Downloads\C#\Hometask58\bin\Debug\net6.0\Hometask58.dll
+C:\Users\HP\Downloads\C#\Hometask58\bin\Debug\net6.0\Hometask58.pdb
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\Hometask58.dll
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\refint\Hometask58.dll
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\Hometask58.pdb
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\Hometask58.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\Hometask58\obj\Debug\net6.0\ref\Hometask58.dll
