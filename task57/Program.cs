@@ -28,10 +28,31 @@ void PrintArray(int[,] inArray)
 }
 
 
+// void FindEl(int[,] array)
+// {
+//     Console.Write("Введите значение элемента массива N: ");
+//     int N = int.Parse(Console.ReadLine());
+//     int count = 0;
+
+//     for (int i = 0; i < array.GetLength(0); i++)
+//     {
+//         for (int j = 0; j < array.GetLength(1); j++)
+//         {
+//             if (N == array[i, j])
+//             {
+//                 count++;
+//             }
+
+//         }
+//         Console.WriteLine();
+//     }
+//     Console.Write($"Элемент {N} встречается {count} раз");
+// }
+
 void FindEl(int[,] array)
 {
-    Console.Write("Введите значение элемента массива N: ");
-    int N = int.Parse(Console.ReadLine());
+
+    int N = 0;
     int count = 0;
 
     for (int i = 0; i < array.GetLength(0); i++)
@@ -41,12 +62,23 @@ void FindEl(int[,] array)
             if (N == array[i, j])
             {
                 count++;
+
+            }
+            else
+            {
+                Console.WriteLine($"Элемент {N} встречается {count} раз ");
+                count = 0;
+                N++;
+
             }
 
         }
         Console.WriteLine();
+
     }
-    Console.Write($"Элемент {N} встречается {count} раз");
+
+    //Console.Write($"Элемент {N} встречается {count} раз ");
+    //N++;
 }
 
 Console.Write("Введите количество строк: ");

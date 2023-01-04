@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\Hometask54\bin\Debug\net6.0\Hometask54.exe
+C:\Users\HP\Downloads\C#\Hometask54\bin\Debug\net6.0\Hometask54.deps.json
+C:\Users\HP\Downloads\C#\Hometask54\bin\Debug\net6.0\Hometask54.runtimeconfig.json
+C:\Users\HP\Downloads\C#\Hometask54\bin\Debug\net6.0\Hometask54.dll
+C:\Users\HP\Downloads\C#\Hometask54\bin\Debug\net6.0\Hometask54.pdb
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\Hometask54.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\Hometask54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\Hometask54.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\Hometask54.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\Hometask54.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\Hometask54.dll
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\refint\Hometask54.dll
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\Hometask54.pdb
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\Hometask54.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\Hometask54\obj\Debug\net6.0\ref\Hometask54.dll
