@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\C#\task67\bin\Debug\net6.0\task67.exe
+C:\Users\HP\Downloads\C#\task67\bin\Debug\net6.0\task67.deps.json
+C:\Users\HP\Downloads\C#\task67\bin\Debug\net6.0\task67.runtimeconfig.json
+C:\Users\HP\Downloads\C#\task67\bin\Debug\net6.0\task67.dll
+C:\Users\HP\Downloads\C#\task67\bin\Debug\net6.0\task67.pdb
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\task67.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\task67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\task67.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\task67.AssemblyInfo.cs
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\task67.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\task67.dll
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\refint\task67.dll
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\task67.pdb
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\task67.genruntimeconfig.cache
+C:\Users\HP\Downloads\C#\task67\obj\Debug\net6.0\ref\task67.dll
