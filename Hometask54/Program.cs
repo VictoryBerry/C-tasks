@@ -36,22 +36,25 @@ void SortArray(int[,] inArray)
         for (int j = 0; j < inArray.GetLength(1); j++)
 
         {
-            if (inArray[i, j + 1] > inArray[i, j])
+            int max = j;
+            for (int m = j + 1; m < inArray.GetLength(1); m++)
             {
 
-                int temp = inArray[i, j];
-                inArray[i, j] = inArray[i, j + 1];
-                inArray[i, j + 1] = temp;
-
-
-                Console.Write($"{inArray[i, j]} ");
+                if (inArray[i, m] > inArray[i, max]) max = m;
             }
-            // Console.WriteLine();
+            int temp = inArray[i, j];
+            inArray[i, j] = inArray[i, max];
+            inArray[i, max] = temp;
+
+
+            //Console.Write($"{inArray[i, j]} ");
         }
+        // Console.WriteLine();
     }
-
-
 }
+
+
+
 
 
 Console.Write("Введите количество строк: ");
@@ -63,7 +66,8 @@ int colums = int.Parse(Console.ReadLine());
 int[,] array = GetArray(rows, colums, 0, 10);
 PrintArray(array);
 Console.WriteLine();
+SortArray(array);
 
-PrintArray(SortArray(array));
+PrintArray(array);
 
 
